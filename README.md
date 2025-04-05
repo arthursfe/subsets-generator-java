@@ -32,4 +32,11 @@ Desenvolver a função `getSubSets(Set A)` conforme solicitado em prova técnica
 
 ## 📁 Estrutura do Projeto
 
+subsets-generator-java/
+├── src/
+│   └── SubsetsGenerator.java     # Código-fonte principal que gera os subconjuntos
+├── justificativa-tecnica.md      # Documento com explicação técnica da solução
+├── subject.txt                   # Arquivo com o enunciado da questão
+├── README.md                     # Documentação principal do projeto
+├── LICENSE                       # Licença de uso (MIT)
 

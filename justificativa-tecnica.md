@@ -39,6 +39,5 @@ Os subconjuntos são ordenados:
 
 ## 🧠 Conclusão
 
-A solução apresentada está de acordo com os requisitos do problema, respeitando a estrutura de dados exigida (`Set`) e a ordem de saída conforme exemplo. Além disso, demonstra domínio de lógica de programação, estruturas de dados e clareza na codificação — habilidades esperadas de um candidato do 5º período para uma vaga de estágio técnico.
-
+A implementação apresentada resolve corretamente o problema proposto, utilizando a estrutura de dados Set conforme exigido e gerando todos os subconjuntos possíveis com clareza e precisão. A lógica foi construída de forma a preservar a ordenação dos elementos usando TreeSet, além de aplicar manipulação de bits para eficiência na geração das combinações. A escolha por abstrair a lógica em um método separado (gerarSubconjuntos) reflete boas práticas de modularização, facilitando manutenção e testes.
 
